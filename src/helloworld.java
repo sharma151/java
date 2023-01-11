@@ -4,5 +4,6 @@ public class helloworld {
         String name =" saurav";
         String name2 = name.replace('a','b');
         System.out.println(name2);
+        System.out.println(name);
     }
 }
