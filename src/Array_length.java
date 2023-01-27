@@ -8,6 +8,6 @@ public class Array_length {
         System.out.println(Marks.length);// used to find out the length of Array
         System.out.println(Marks[0]);// before sorting
         Arrays.sort(Marks);
-        System.out.println(Marks[0]);// after sorting
+        System.out.println(Marks[0]);// after sorting the array
     }
 }

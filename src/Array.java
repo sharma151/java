@@ -9,5 +9,6 @@ public class Array {
 
         int[][] sub_Marks={{31,89,67},{34,56,78}}; //Declaration of 2D Arrays.
         System.out.println(sub_Marks[1][2]);
+
     }
 }
