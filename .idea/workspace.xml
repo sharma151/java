@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fa30a5b-5183-421b-adff-de416a4336f3" name="Changes" comment="initial change2">
-      <change afterPath="$PROJECT_DIR$/src/saurav.java" afterDir="false" />
+    <list default="true" id="1fa30a5b-5183-421b-adff-de416a4336f3" name="Changes" comment="substring added2">
+      <change afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,12 +75,28 @@
       <option name="project" value="LOCAL" />
       <updated>1673465826709</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="substring added">
+      <created>1673466079335</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673466079335</updated>
+    </task>
+    <task id="LOCAL-00006" summary="substring added2">
+      <created>1673466203158</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673466203158</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial change" />
     <MESSAGE value="initial change2" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial change2" />
+    <MESSAGE value="substring added" />
+    <MESSAGE value="substring added2" />
+    <option name="LAST_COMMIT_MESSAGE" value="substring added2" />
   </component>
 </project>
