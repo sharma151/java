@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fa30a5b-5183-421b-adff-de416a4336f3" name="Changes" comment="casting added">
-      <change beforePath="$PROJECT_DIR$/src/Casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Casting.java" afterDir="false" />
+    <list default="true" id="1fa30a5b-5183-421b-adff-de416a4336f3" name="Changes" comment="casting">
+      <change afterPath="$PROJECT_DIR$/src/Taking_input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674905049298</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="maths function added">
+      <created>1674905582333</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674905582333</updated>
+    </task>
+    <task id="LOCAL-00012" summary="casting">
+      <created>1674905642986</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1674905642986</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -127,6 +142,8 @@
     <MESSAGE value="2dArray,length,sorting added" />
     <MESSAGE value="2dArray,length,sorting" />
     <MESSAGE value="casting added" />
-    <option name="LAST_COMMIT_MESSAGE" value="casting added" />
+    <MESSAGE value="maths function added" />
+    <MESSAGE value="casting" />
+    <option name="LAST_COMMIT_MESSAGE" value="casting" />
   </component>
 </project>
