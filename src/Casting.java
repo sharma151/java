@@ -5,7 +5,7 @@ public class Casting {
         System.out.println(finalprice);
 
         int p =20;
-        int fp = p +(int)18.9;
+        int fp = p +(int)18.9;// we can change float value to integer by specifying it.
         System.out.println(fp);
 
     }
