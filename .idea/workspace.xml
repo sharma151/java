@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fa30a5b-5183-421b-adff-de416a4336f3" name="Changes" comment="casting">
-      <change afterPath="$PROJECT_DIR$/src/Taking_input.java" afterDir="false" />
+    <list default="true" id="1fa30a5b-5183-421b-adff-de416a4336f3" name="Changes" comment="Taking user data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Taking_input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Taking_input.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674905642986</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Taking user data">
+      <created>1674906489881</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1674906489881</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -144,6 +151,7 @@
     <MESSAGE value="casting added" />
     <MESSAGE value="maths function added" />
     <MESSAGE value="casting" />
-    <option name="LAST_COMMIT_MESSAGE" value="casting" />
+    <MESSAGE value="Taking user data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Taking user data" />
   </component>
 </project>

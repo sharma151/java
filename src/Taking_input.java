@@ -9,10 +9,10 @@ public class Taking_input {
         System.out.println("enter your AGE");
         float Age = sc.nextFloat();// for Float value
         System.out.println("describe yourself in a line");
-        String about = sc.nextLine();// for printing a line
+        String About = sc.nextLine();// for printing a line
         System.out.println(name);
         System.out.println(age);
         System.out.println(Age);
-        System.out.println(about);
+        System.out.println(About);
     }
 }
